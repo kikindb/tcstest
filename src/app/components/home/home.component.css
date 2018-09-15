@@ -1,0 +1,84 @@
+.big-icon{
+  font-size: 40px;
+  margin-bottom: 0;
+  color: white;
+}
+.iconos-principal{
+  background-color: #0087ff;
+}
+
+.container-fluid{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.col-sm-3 h4{
+    color: white;
+}
+
+.imagen{
+    width: 400px;
+}
+
+.lema{
+    background: url(https://www.latogabirrete.com/wp-content/uploads/2017/08/courthouse-1223280_960_720.jpg) no-repeat scroll center top rgba(0, 135, 255, 0.5);
+    background-attachment: fixed !important;
+    background-size: cover !important;
+    padding: 120px 0;
+    position: relative;
+    color: white;
+}
+
+
+.text-carousel{
+    color: gray;
+    font-size: 45pt;
+    text-shadow: 2px 1px black;
+}
+
+.read-button{
+    margin-top: 50%;
+    margin-left: 80%;
+    font-weight: bold;
+    background-color: orange;
+    color: maroon;
+    border-color: maroon;
+    border-radius: 5px;
+}
+
+.contactus-button{
+    font-weight: bold;
+    font-size: 15pt;
+    background-color: darkorange;
+    color: white;
+    border-color: maroon;
+    border-radius: 5px;
+}
+
+.carousel-caption{
+    top: 50%;
+    transform: translateY(-50%);
+    bottom: initial;
+}
+
+.carousel .carousel-item img {
+    max-height: 850px;
+    min-width: auto;
+  }
+
+.carousel-item{
+    -webkit-transform-style: preserve-3d;
+    -moz-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+}
+
+.max-img-width-200{
+    max-width: 400px;
+}
+
+.modal-btns{
+    font-weight: bold;
+    background-color: darkorange;
+    color: white;
+    border-color: maroon;
+}
